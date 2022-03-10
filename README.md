@@ -16,7 +16,7 @@ Again, please only use Python (version 3.6 and above).
 You do not need to provide instructions for running the code, only the code itself and the answers to the tasks.
 
 All answered should be submitted to this README.md file, in the spaces provided for each task.
-Once you are complete with all the tasks, please ensure that you have pushed your code and solutions, and then add @georgemillard and @merton as collaborators to your repository. 
+Once you are complete with all the tasks, please ensure that you have pushed your code and solutions, and then add [@georgemillard](https://github.com/georgemillard) and [@merton](https://github.com/Merton) as collaborators to your repository. 
 You can then email us the URL to your repository, where we can review.
 
 ## The Challenge
