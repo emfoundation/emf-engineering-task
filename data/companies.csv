@@ -1,0 +1,701 @@
+﻿company_id,submission_date,industry_group,industry_classification_id,overall_score
+153,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.6
+506,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.95
+77,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.93
+387,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.59
+72,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.24
+127,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.26
+607,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.36
+287,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.83
+674,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.16
+468,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.68
+663,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.78
+530,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.95
+115,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.61
+560,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.4
+227,01/01/2021,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.04
+664,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.62
+557,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.71
+504,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.01
+254,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.07
+494,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.74
+89,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.32
+466,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.54
+277,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.18
+583,08/03/2022,Services,SE.10 Services: Other services,1
+686,08/03/2022,Services,"SE.9 Services: Telecommunications, software and IT services",0.92
+348,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.57
+295,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.2
+292,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.92
+689,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.72
+541,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.54
+616,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.15
+13,01/01/2021,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.09
+594,01/01/2021,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.2
+282,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.59
+242,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.03
+596,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.63
+311,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.1
+290,08/03/2022,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.25
+369,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.22
+252,01/01/2021,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.18
+100,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.58
+371,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.82
+134,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.03
+518,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.76
+73,01/01/2021,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.9
+474,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.81
+543,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.06
+244,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.49
+536,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.76
+442,01/01/2021,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.57
+308,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.89
+571,01/01/2021,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.28
+80,01/01/2021,Services,"SE.5 Services: Marketing, communications, PR agencies",0.51
+691,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.42
+620,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.63
+472,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.36
+377,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.62
+170,01/01/2021,Services,SE.1 Services: Education and research,0.4
+37,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.15
+670,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.29
+343,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.93
+165,01/01/2021,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.51
+505,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.05
+302,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.38
+173,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.04
+549,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.55
+639,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.41
+224,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.97
+42,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.73
+608,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.31
+587,08/03/2022,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.05
+550,08/03/2022,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.07
+435,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.62
+692,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.68
+354,08/03/2022,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.05
+207,08/03/2022,Services,SE.10 Services: Other services,0.27
+390,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.58
+294,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.01
+426,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",1
+90,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.41
+480,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.08
+402,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.31
+215,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.32
+600,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.66
+18,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.31
+39,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.51
+62,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.96
+335,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.24
+610,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.14
+350,08/03/2022,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.62
+667,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.53
+235,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.9
+16,01/01/2021,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.58
+479,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.1
+394,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.38
+564,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.74
+342,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.64
+188,01/01/2021,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.7
+535,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.39
+432,01/01/2021,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.07
+280,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.87
+237,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.41
+323,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.68
+684,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.26
+570,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.83
+414,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.75
+216,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.65
+225,01/01/2021,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.2
+337,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.03
+537,08/03/2022,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.32
+381,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.32
+2,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.41
+257,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.36
+655,01/01/2021,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.14
+259,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.4
+413,01/01/2021,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.91
+296,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.11
+220,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.31
+319,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.91
+219,01/01/2021,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.43
+31,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.28
+449,08/03/2022,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.5
+149,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.76
+496,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.27
+651,01/01/2021,Services,SE.6 Services: Professional and commercial services not specified elsewhere,0.48
+198,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.86
+276,01/01/2021,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.7
+668,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.38
+577,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.51
+465,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.48
+509,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.51
+695,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0
+92,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.48
+122,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.1
+228,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.85
+218,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.21
+363,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.04
+658,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.17
+476,08/03/2022,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.94
+258,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.6
+438,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.39
+303,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.77
+256,01/01/2021,Services,SE.3 Services: Hospitality and leisure facilities,0.21
+593,08/03/2022,Services,"SE.8 Services: Repair, refurbishing, remanufacturing services",0.35
+245,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.56
+563,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.17
+107,01/01/2021,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.07
+322,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.78
+61,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.98
+436,01/01/2021,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.96
+29,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.32
+275,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.46
+297,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.14
+463,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.15
+671,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.39
+318,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.92
+172,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.52
+239,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.02
+482,01/01/2021,Services,"SE.5 Services: Marketing, communications, PR agencies",0.23
+274,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.03
+622,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.79
+203,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.13
+497,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.3
+652,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.7
+492,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.42
+222,08/03/2022,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.62
+558,08/03/2022,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.94
+475,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.81
+341,08/03/2022,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.52
+477,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.6
+532,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.31
+552,08/03/2022,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.13
+119,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.52
+429,01/01/2021,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.98
+108,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.82
+503,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.21
+167,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.56
+36,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.81
+520,08/03/2022,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.74
+364,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.42
+603,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.2
+249,08/03/2022,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.66
+617,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.72
+656,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.86
+163,08/03/2022,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.43
+271,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.56
+332,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.33
+306,01/01/2021,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.87
+635,01/01/2021,"Institutions, Governments and Cities","IGC.1 Institutions, Governments and Cities: International and multilateral organisations",0.63
+143,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.9
+484,01/01/2021,Upstream processing,UP.1 Upstream processing: Cement manufacturing,1
+196,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.8
+123,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.02
+69,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.83
+687,08/03/2022,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.7
+346,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.8
+430,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.88
+190,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.28
+516,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.99
+649,01/01/2021,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.69
+666,08/03/2022,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.12
+263,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.18
+289,08/03/2022,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.84
+47,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.08
+54,08/03/2022,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.37
+213,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.06
+358,08/03/2022,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.31
+515,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.02
+281,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.73
+538,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.52
+592,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.13
+602,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.49
+619,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.93
+391,08/03/2022,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.2
+379,08/03/2022,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.65
+307,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.41
+355,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.12
+486,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.78
+217,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.04
+351,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.37
+696,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.85
+53,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.76
+15,08/03/2022,Services,SE.10 Services: Other services,0.04
+171,08/03/2022,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.15
+688,01/01/2021,Services,"SE.5 Services: Marketing, communications, PR agencies",0.3
+187,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.53
+553,08/03/2022,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.99
+410,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.34
+147,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.48
+624,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.46
+517,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.02
+97,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0
+499,01/01/2021,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.36
+17,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.22
+299,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.58
+325,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.03
+646,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.81
+204,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.93
+63,08/03/2022,Services,SE.2 Services: Healthcare and social work services,0.88
+628,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.56
+268,01/01/2021,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.55
+315,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.18
+388,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.27
+650,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.87
+360,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.82
+640,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.53
+19,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.49
+246,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.93
+398,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.12
+561,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.16
+568,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.44
+645,01/01/2021,Services,"SE.8 Services: Repair, refurbishing, remanufacturing services",0.41
+10,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.98
+357,01/01/2021,Services,SE.1 Services: Education and research,0.04
+591,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.04
+531,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.7
+158,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.05
+528,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.08
+4,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.89
+415,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.75
+514,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.69
+159,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.07
+310,01/01/2021,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.89
+67,01/01/2021,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.28
+605,08/03/2022,"Institutions, Governments and Cities","IGC.1 Institutions, Governments and Cities: International and multilateral organisations",0.9
+148,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.07
+175,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.96
+14,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.97
+267,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.06
+461,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.17
+168,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.38
+338,08/03/2022,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.92
+88,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.52
+85,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.04
+485,08/03/2022,"Institutions, Governments and Cities","IGC.7 Institutions, Governments and Cities: Other policy-oriented organisations (incl. policy-oriented NGOs, Think Tanks and Research Institutes)",0.98
+126,01/01/2021,Finance and insurance,FI.3 Finance and insurance: Insurance,0.75
+698,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.57
+55,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.19
+312,01/01/2021,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.21
+43,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.2
+133,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.44
+269,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.82
+551,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.92
+154,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.65
+448,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.9
+526,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.1
+278,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.45
+189,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.85
+316,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.76
+45,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.15
+5,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.35
+534,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.76
+389,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.97
+74,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.82
+340,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.06
+546,08/03/2022,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.73
+8,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.5
+458,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.8
+613,01/01/2021,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.82
+654,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.17
+260,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.97
+12,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.91
+59,01/01/2021,Finance and insurance,FI.3 Finance and insurance: Insurance,0.58
+3,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.27
+35,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.8
+48,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.2
+70,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.48
+356,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.93
+565,01/01/2021,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.7
+374,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.25
+305,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.35
+336,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.02
+434,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.5
+191,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.68
+161,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.09
+288,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.95
+507,01/01/2021,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.93
+195,08/03/2022,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.62
+214,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.49
+633,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.21
+677,01/01/2021,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.28
+612,08/03/2022,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.66
+433,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.97
+365,01/01/2021,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.66
+155,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.54
+606,01/01/2021,Services,SE.6 Services: Professional and commercial services not specified elsewhere,0.64
+208,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.39
+412,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.3
+425,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.25
+180,01/01/2021,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.78
+283,01/01/2021,Services,SE.2 Services: Healthcare and social work services,0.55
+522,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.93
+352,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.98
+145,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.35
+139,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.58
+576,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.46
+209,08/03/2022,Services,SE.10 Services: Other services,0.44
+181,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.33
+525,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.14
+130,01/01/2021,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.35
+300,01/01/2021,Services,SE.2 Services: Healthcare and social work services,0.12
+317,08/03/2022,Services,"SE.8 Services: Repair, refurbishing, remanufacturing services",0.09
+694,01/01/2021,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.25
+366,08/03/2022,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.8
+636,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.11
+162,01/01/2021,Services,SE.4 Services: Media and entertainment,0.4
+234,01/01/2021,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.37
+236,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.91
+604,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.57
+647,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.61
+493,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.14
+34,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.37
+408,08/03/2022,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.1
+84,01/01/2021,Services,SE.10 Services: Other services,0.57
+473,08/03/2022,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.16
+440,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.52
+150,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.37
+286,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.64
+511,01/01/2021,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.47
+572,01/01/2021,Services,SE.4 Services: Media and entertainment,0.25
+238,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.31
+118,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.12
+441,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.53
+58,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.15
+261,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.03
+240,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.67
+495,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.73
+678,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.75
+111,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.99
+631,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.53
+101,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.91
+64,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.71
+232,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.14
+637,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.91
+653,01/01/2021,Finance and insurance,FI.3 Finance and insurance: Insurance,0.33
+399,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.18
+121,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.54
+279,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.28
+367,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.83
+50,08/03/2022,"Institutions, Governments and Cities","IGC.7 Institutions, Governments and Cities: Other policy-oriented organisations (incl. policy-oriented NGOs, Think Tanks and Research Institutes)",0.42
+210,01/01/2021,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.78
+120,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.05
+554,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.4
+32,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.86
+629,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.8
+699,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.22
+30,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.07
+241,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.72
+68,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.93
+362,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.09
+445,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.82
+444,01/01/2021,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.17
+124,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.18
+409,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.04
+406,01/01/2021,Intermediate products,IP.3 Intermediate products: Packaging,0.28
+555,01/01/2021,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.1
+199,01/01/2021,Transportation,TR.3 Transportation: Other transportation,0.69
+544,08/03/2022,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.74
+266,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.19
+353,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.37
+140,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.45
+194,08/03/2022,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.67
+79,01/01/2021,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.09
+373,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.78
+144,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.34
+87,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.59
+459,08/03/2022,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.64
+250,08/03/2022,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.77
+197,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.12
+22,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.48
+481,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.98
+471,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.02
+420,01/01/2021,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.59
+60,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.15
+40,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.14
+669,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.61
+157,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.34
+56,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.36
+33,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.45
+138,01/01/2021,"Institutions, Governments and Cities","IGC.1 Institutions, Governments and Cities: International and multilateral organisations",0.14
+384,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.16
+1,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.04
+697,08/03/2022,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.19
+574,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.03
+243,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.58
+614,08/03/2022,Services,SE.2 Services: Healthcare and social work services,0.67
+21,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.45
+416,08/03/2022,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.07
+164,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.01
+682,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.88
+253,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.86
+272,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.2
+580,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.3
+114,08/03/2022,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.49
+454,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.73
+597,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.71
+231,01/01/2021,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.19
+681,01/01/2021,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.54
+395,08/03/2022,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.53
+229,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.48
+569,08/03/2022,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.54
+255,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.53
+51,08/03/2022,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.91
+93,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.67
+665,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.02
+575,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.69
+642,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.39
+247,01/01/2021,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.85
+581,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.05
+488,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.88
+693,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.43
+169,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.56
+313,01/01/2021,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.16
+502,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.67
+383,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.42
+418,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.3
+91,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.49
+483,01/01/2021,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.83
+455,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.26
+460,08/03/2022,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.51
+96,08/03/2022,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.19
+401,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.76
+386,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.25
+500,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.48
+588,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.99
+370,01/01/2021,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.29
+397,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.4
+685,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.88
+423,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.19
+177,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.7
+609,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.04
+193,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.35
+578,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.22
+657,01/01/2021,"Institutions, Governments and Cities","IGC.1 Institutions, Governments and Cities: International and multilateral organisations",0.37
+179,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.25
+584,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.37
+285,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.86
+205,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.46
+437,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.92
+116,01/01/2021,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.68
+376,08/03/2022,Intermediate products,IP.3 Intermediate products: Packaging,0.32
+206,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.84
+621,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.89
+524,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.8
+270,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.65
+547,08/03/2022,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.12
+132,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.8
+298,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.4
+102,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.45
+630,01/01/2021,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.02
+321,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.78
+186,01/01/2021,Services,SE.4 Services: Media and entertainment,0.92
+648,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.33
+601,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.55
+331,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.03
+582,01/01/2021,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.19
+427,08/03/2022,"Institutions, Governments and Cities","IGC.3 Institutions, Governments and Cities: National Government",0.27
+233,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.76
+559,01/01/2021,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.19
+327,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.77
+527,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.62
+419,08/03/2022,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.72
+71,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.03
+226,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.76
+523,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.94
+301,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.19
+334,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.67
+491,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.38
+25,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.07
+447,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.94
+105,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.61
+113,08/03/2022,"Institutions, Governments and Cities","IGC.7 Institutions, Governments and Cities: Other policy-oriented organisations (incl. policy-oriented NGOs, Think Tanks and Research Institutes)",0.58
+562,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.06
+450,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.81
+20,01/01/2021,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.93
+103,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.87
+11,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.62
+152,01/01/2021,Services,SE.3 Services: Hospitality and leisure facilities,0.81
+110,01/01/2021,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.98
+38,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.27
+380,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.39
+403,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.55
+519,01/01/2021,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.59
+508,08/03/2022,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.84
+7,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.07
+94,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.58
+65,08/03/2022,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.25
+192,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.34
+137,01/01/2021,Intermediate products,IP.1 Intermediate products: Construction materials not specified elsewhere,0.9
+184,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.48
+539,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.71
+223,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.81
+82,01/01/2021,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.96
+641,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.4
+99,01/01/2021,Services,"SE.8 Services: Repair, refurbishing, remanufacturing services",0.52
+611,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.74
+166,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.28
+182,01/01/2021,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.06
+142,01/01/2021,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.28
+136,08/03/2022,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.95
+52,01/01/2021,Intermediate products,IP.3 Intermediate products: Packaging,0.55
+679,08/03/2022,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.15
+579,08/03/2022,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.31
+106,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.4
+662,08/03/2022,Services,"SE.5 Services: Marketing, communications, PR agencies",0.84
+627,08/03/2022,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.3
+75,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.24
+26,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.74
+396,01/01/2021,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.21
+573,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.23
+284,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.1
+329,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.31
+81,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.05
+95,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.07
+314,01/01/2021,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.65
+675,01/01/2021,Services,SE.4 Services: Media and entertainment,0.24
+634,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.03
+501,01/01/2021,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.84
+201,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.98
+673,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.51
+392,01/01/2021,Finance and insurance,FI.2 Finance and insurance: Commercial and retail banking,0.36
+211,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.54
+200,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.34
+595,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.49
+76,01/01/2021,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.71
+533,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.3
+529,08/03/2022,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.15
+457,01/01/2021,Energy [Non-production],EN.3 Energy [Non-production]: Energy grid and other infrastructure,0.11
+690,01/01/2021,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.66
+385,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.16
+411,08/03/2022,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.24
+453,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.68
+24,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.07
+230,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.98
+487,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.65
+683,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.09
+567,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.63
+625,08/03/2022,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.1
+178,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.75
+462,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.46
+443,01/01/2021,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.14
+498,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.61
+361,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.25
+659,08/03/2022,Energy [Non-production],EN.1b Energy [Non-production]: Downstream oil and gas for energy,0.75
+590,01/01/2021,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.37
+330,08/03/2022,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.12
+129,08/03/2022,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.78
+661,08/03/2022,Upstream processing,UP.4 Upstream processing: Up and mid-stream oil and gas,0.05
+46,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.4
+23,08/03/2022,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.41
+185,08/03/2022,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.4
+405,01/01/2021,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.41
+618,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.02
+125,01/01/2021,Transportation,"TR.2 Transportation: Transportation of people: airlines, rail, taxis services, cruise lines, marine transport, etc.",0.23
+160,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.76
+660,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.77
+632,01/01/2021,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.41
+28,08/03/2022,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.91
+324,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.07
+421,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.2
+548,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.03
+128,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.79
+521,08/03/2022,"Institutions, Governments and Cities","IGC.1 Institutions, Governments and Cities: International and multilateral organisations",0.52
+273,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.41
+176,01/01/2021,Intermediate products,"IP.5 Intermediate products: Wood, paper, and other natural fiber products",0.3
+589,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.79
+586,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.88
+339,08/03/2022,Services,SE.1 Services: Education and research,0.48
+151,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.56
+545,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.89
+469,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.11
+676,01/01/2021,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.26
+345,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.44
+265,08/03/2022,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.64
+512,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.52
+422,01/01/2021,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.27
+623,01/01/2021,Finance and insurance,FI.4 Finance and insurance: Investment banking,0.52
+417,01/01/2021,Energy [Production],EN.1a Energy [Production]: Downstream oil and gas for energy,0.96
+183,01/01/2021,Upstream processing,UP.6 Upstream processing: Other upstream materials processing,0.7
+251,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.48
+470,08/03/2022,Upstream processing,UP.3 Upstream processing: Mining and metals,0.02
+615,08/03/2022,Infrastructure,IN.3 Infrastructure: Water utilities and waste water management,0.6
+262,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.13
+104,01/01/2021,Services,SE.6 Services: Professional and commercial services not specified elsewhere,0.13
+174,01/01/2021,Energy [Non-production],EN.4 Energy [Non-production]: Energy retail and other services,0.86
+404,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.79
+66,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.13
+156,08/03/2022,Intermediate products,IP.6 Intermediate products: Other intermediate products,0.05
+400,08/03/2022,Services,"SE.8 Services: Repair, refurbishing, remanufacturing services",0.37
+439,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.68
+372,08/03/2022,Services,SE.4 Services: Media and entertainment,0.42
+359,01/01/2021,Energy [Production],EN.5a Energy [Production]: Energy storage,0.5
+680,01/01/2021,Upstream processing,UP.3 Upstream processing: Mining and metals,0.61
+202,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.95
+467,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.7
+446,08/03/2022,Finance and insurance,FI.5 Finance and insurance: Other finance and insurance,0.11
+0,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.64
+643,01/01/2021,"Agriculture, forestry, fishing","AF.1 Agriculture, forestry, fishing: Agriculture for food or fiber",0.3
+98,01/01/2021,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.77
+566,01/01/2021,Energy [Non-production],EN.6b Energy [Non-production]: Other energy,0.13
+44,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.79
+424,01/01/2021,Infrastructure,IN.2 Infrastructure: Real estate management and property development,0.9
+112,08/03/2022,Energy [Non-production],EN.2b Energy [Non-production]: Electricity generation,0.2
+375,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.93
+131,08/03/2022,"Institutions, Governments and Cities","IGC.7 Institutions, Governments and Cities: Other policy-oriented organisations (incl. policy-oriented NGOs, Think Tanks and Research Institutes)",0.32
+393,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.98
+540,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.2
+598,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.02
+146,01/01/2021,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.79
+221,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.74
+644,08/03/2022,Infrastructure,"IN.1 Infrastructure: Construction and building of residential, industrial and civil engineering projects",0.99
+407,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.19
+456,08/03/2022,Services,SE.4 Services: Media and entertainment,0.48
+478,01/01/2021,Energy [Production],EN.6a Energy [Production]: Other energy,0.98
+57,08/03/2022,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.4
+49,01/01/2021,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.08
+293,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.14
+452,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.63
+513,08/03/2022,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.19
+333,08/03/2022,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.23
+320,08/03/2022,"Agriculture, forestry, fishing","AF.3 Agriculture, forestry, fishing: Forestry and silviculture",0.77
+117,01/01/2021,"Institutions, Governments and Cities","IGC.4 Institutions, Governments and Cities: Subnational Government",0.39
+382,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.56
+212,08/03/2022,Energy [Production],EN.5a Energy [Production]: Energy storage,0.37
+264,01/01/2021,Infrastructure,IN.5 Infrastructure: Other infrastructure,0.43
+368,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.15
+248,08/03/2022,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.54
+109,08/03/2022,"Institutions, Governments and Cities","IGC.6 Institutions, Governments and Cities: Local Government",0.71
+585,01/01/2021,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.93
+510,01/01/2021,"Institutions, Governments and Cities","IGC.5 Institutions, Governments and Cities: City Government",0.02
+638,08/03/2022,Services,SE.3 Services: Hospitality and leisure facilities,0.61
+41,08/03/2022,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.5
+291,08/03/2022,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.55
+672,01/01/2021,Transportation,"TR.1 Transportation: Transportation of goods: freight, logistics, storage",0.77
+556,08/03/2022,Finance and insurance,FI.1 Finance and insurance: Asset management and ownership,0.85
+542,08/03/2022,Upstream processing,UP.1 Upstream processing: Cement manufacturing,0.6
+344,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.62
+599,01/01/2021,Services,SE.2 Services: Healthcare and social work services,0.38
+6,08/03/2022,Upstream processing,"UP.5 Upstream processing: Wood, pulp, natural fibers processing",0.55
+135,08/03/2022,Energy [Production],EN.2a Energy [Production]: Electricity generation,0.97
+378,08/03/2022,Infrastructure,IN.4 Infrastructure: Waste management and materials recirculation,0.03
+304,01/01/2021,Services,"SE.9 Services: Telecommunications, software and IT services",0.56
+349,01/01/2021,"Institutions, Governments and Cities","IGC.2 Institutions, Governments and Cities: European Institutions",0.49
+141,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.11
+9,01/01/2021,"Agriculture, forestry, fishing","AF.2 Agriculture, forestry, fishing: Animal husbandry, aquaculture, fishing",0.24
+451,08/03/2022,Services,"SE.5 Services: Marketing, communications, PR agencies",0.9
+328,08/03/2022,Services,"SE.9 Services: Telecommunications, software and IT services",0.12
+78,01/01/2021,"Agriculture, forestry, fishing","AF.4 Agriculture, forestry, fishing: Other agriculture, forestry, fishing",0.51
+464,08/03/2022,Energy [Production],EN.6a Energy [Production]: Other energy,0.76
+428,08/03/2022,Upstream processing,UP.2 Upstream processing: Chemicals manufacturing (incl. intermediate and end product chemicals),0.04
+626,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.46
+86,08/03/2022,Finance and insurance,FI.3 Finance and insurance: Insurance,0.94
+83,01/01/2021,Services,"SE.5 Services: Marketing, communications, PR agencies",0.9
+326,01/01/2021,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.88
+27,01/01/2021,Intermediate products,IP.2 Intermediate products: Metal products and parts,0.68
+490,01/01/2021,Intermediate products,IP.4 Intermediate products: Plastic products and parts,0.21
+431,08/03/2022,Consumer/end products,"CP.1 Consumer/end products: Apparel, textiles, footwear",0.34
+309,08/03/2022,Transportation,TR.3 Transportation: Other transportation,0.86
+347,08/03/2022,Services,SE.7 Services: Non-profit organisations (incl. Philanthropic funders and NGOs not specified elsewhere),0.67
+489,01/01/2021,Energy [Non-production],EN.5b Energy [Non-production]: Energy storage,0.9
