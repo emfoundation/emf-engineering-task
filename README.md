@@ -1,9 +1,9 @@
 # EMF - Engineering take-home task
-This task is designed for Technical Engineering roles at the Ellen MacArthur Foundation.
+This task is designed for Software Engineering roles at the Ellen MacArthur Foundation (EMF).
 
 We created this to give you an insight into the kind of work you will be doing at EMF, and to give us an idea of your technical (and non-technical) skills. We're interested in the way you approach problems, but also in your code style and the structure to your solutions.  You may complete these tasks in Python only.
 
-We expect this challenge to take 1-3 hours, should you find it taking significantly longer, please submit what you have - we are not looking for perfection. If you have any queries please reach out to us.
+We expect this challenge to take 1-3 hours. Should you find it taking significantly longer, please submit what you have - we are not looking for perfection. If you have any queries please reach out to us.
 
 ## Instructions
 You can use this repository as a basis for completing the tasks, however, first you will need to create a copy of it, so that you can push your changes to it:
@@ -15,8 +15,8 @@ Please commit **all** work to this repository, and all work must be on the `main
 Again, please only use Python (version 3.6 and above). 
 You do not need to provide instructions for running the code, only the code itself and the answers to the tasks.
 
-All answered should be submitted to this README.md file, in the spaces provided for each task.
-Once you are complete with all the tasks, please ensure that you have pushed your code and solutions, and then add [@georgemillard](https://github.com/georgemillard) and [@merton](https://github.com/Merton) as collaborators to your repository. 
+All answers should be submitted to this README.md file, in the spaces provided for each task.
+Once you have completed all the tasks, please ensure that you have pushed your code and solutions, and then add [@georgemillard](https://github.com/georgemillard) and [@merton](https://github.com/Merton) as collaborators to your repository. 
 You can then email us the URL to your repository, where we can review.
 
 ## The Challenge
