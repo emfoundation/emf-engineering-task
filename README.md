@@ -21,18 +21,25 @@ Again, please only use Python (version 3.6 and above). You do not need to provid
 ### Introduction
 Circulytics is the Ellen MacArthur Foundation’s leading tool for measuring how circular an organisation is, and provides feedback in areas that they can improve.  Organisations provide key information which can be used to calculate an overall score, as well as scores in different themes. 
 
+## Data
+You are provided with a CSV file, `companies.csv` of company data, which has the following data points:
+- `company_id`: The unique identifier for that company
+- `submission_date`: The submission date for the data
+- `industry_group`: The high level industry group the company belongs too
+- `industry_classification_id`: The ID for the industry classification the company belongs too
+- `overall_score`: The company's overall score for Circulytics
 
 ### Task 1
 Each organisation can be grouped by it's industry classification, it is useful to be able to see the top performing industries that are making the most progress in their area.
 
-**Answer**: Provide the top 5 industry IDs and their respective overall scores in ranking order
+**Answer**: Provide the top 5 industry classification IDs and their respective overall scores in ranking order
 
 Industries: []
 
 ### Task 2
-One important aspect of Circulytics is our ability to provide benchmarks against other organisations in their industry classifications.
+One important aspect of Circulytics is our ability to provide benchmarks against other organisations in their respective industry classifications.
 
-**Answer**: Find the top 5 organisations whose overall scores are the highest above their industry average. For each organisation, provide their ID, industry classification, industry average score, and overall scores.
+**Answer**: Find the top 5 organisations whose overall scores are the highest above their industry competitors. For each organisation provide; Company ID, Industry classification ID, the average score for that industry, and the company's overall score.
 
 Organisations: []
 
