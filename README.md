@@ -28,7 +28,7 @@ You are provided with company data (`companies.csv`) which has the following dat
 - `company_id`: The unique identifier for that company
 - `submission_date`: The submission date for the data
 - `industry_group`: The high level industry group the company belongs to
-- `industry_classification_id`: The ID for the industry classification the company belongs too
+- `industry_classification_id`: The ID for the industry classification the company belongs to
 - `overall_score`: The company's overall score for Circulytics
 
 ### Task 1
