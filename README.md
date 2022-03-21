@@ -21,7 +21,7 @@ You can then email us the URL to your repository, where we can review.
 
 ## The Challenge
 ### Introduction
-Circulytics is the Ellen MacArthur Foundation’s leading tool for measuring how circular an company is, and provides feedback in areas that they can improve.  Companies provide key information which can be used to calculate an overall score, as well as scores in different themes. 
+Circulytics is the Ellen MacArthur Foundation’s leading tool for measuring how circular a company is, and provides feedback in areas that they can improve.  Companies provide key information which can be used to calculate an overall score, as well as scores in different themes. 
 
 ### Data
 You are provided with company data (`companies.csv`) which has the following data points:
