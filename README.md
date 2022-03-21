@@ -52,5 +52,5 @@ Adapt your solution to Task 1, or create a new solution, which only creates benc
 
 **Answer**:  Provide the new top 5 industry classification IDs and their respective average overall scores in ranking order.
 
-Industries: []
+Industry Classifications: []
 
