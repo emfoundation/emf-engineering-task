@@ -21,37 +21,36 @@ You can then email us the URL to your repository, where we can review.
 
 ## The Challenge
 ### Introduction
-Circulytics is the Ellen MacArthur Foundation’s leading tool for measuring how circular an organisation is, and provides feedback in areas that they can improve.  Organisations provide key information which can be used to calculate an overall score, as well as scores in different themes. 
+Circulytics is the Ellen MacArthur Foundation’s leading tool for measuring how circular a company is, and provides feedback in areas that they can improve.  Companies provide key information which can be used to calculate an overall score, as well as scores in different themes. 
 
 ### Data
 You are provided with company data (`companies.csv`) which has the following data points:
 - `company_id`: The unique identifier for that company
-- `submission_date`: The submission date for the data
-- `industry_group`: The high level industry group the company belongs too
-- `industry_classification_id`: The ID for the industry classification the company belongs too
+- `submission_date`: The date of submission of data by the company
+- `industry_group`: The high level industry group the company belongs to - these are then further divided into industry classifications
+- `industry_classification_id`: The ID for the industry classification the company belongs to
 - `overall_score`: The company's overall score for Circulytics
 
 ### Task 1
-Each organisation can be grouped by its industry classification,
-as it is useful to be able to see the top performing industries that are making the most progress in their domain area.
+It is useful to be able to see the top performing industries that are making the most progress in their domain area. Find the top performing industry classifications.
 
-**Answer**: Provide the top 5 industry classification IDs and their respective overall scores in ranking order
+**Answer**: Provide the top 5 industry classification IDs and their respective average overall scores in ranking order.
 
-Industries: []
+Industry Classifications: []
 
 ### Task 2
-One important aspect of Circulytics is our ability to provide benchmarks against other organisations in their respective industry classifications.
+One important aspect of Circulytics is our ability to provide benchmarks against other companies in their respective industry classification.
 
-**Answer**: Find the top 5 organisations whose overall scores are the highest above their industry competitors. For each organisation provide; Company ID, Industry classification ID, the average score for that industry, and the company's overall score.
+**Answer**: Find the top 5 companies whose overall scores are the highest above their industry classification average. For each company provide; Company ID, Industry classification ID, the average score for that industry classification, and the company's overall score.
 
-Organisations: []
+Companies: []
 
 ### Task 3
-For data privacy reasons, we cannot benchmark industries if they have less than 12 organisations in them.
+For data privacy reasons, we cannot benchmark industry classifications if they have less than 12 companies in them.
 
-Adapt your solution to Task 1, or create a new solution, so that we only create benchmarks for industries that have at least 12 organisations in them.
+Adapt your solution to Task 1, or create a new solution, which only creates benchmarks for industry clasifications that have at least 12 companies in them.
 
-**Answer**:  Provide the new top 5 industry IDs and their respective overall scores in ranking order
+**Answer**:  Provide the new top 5 industry classification IDs and their respective average overall scores in ranking order.
 
 Industries: []
 
